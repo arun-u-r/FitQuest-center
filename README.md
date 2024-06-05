@@ -1,3 +1,27 @@
+# FitQuest-center
+
+FitQuest is a dynamic fitness app built with React, designed to help you achieve your health goals with personalized workouts and real-time progress tracking. Stay motivated and connected with our vibrant community of fitness enthusiasts.
+
+## Features
+
+- Search and filter exercises by body part, equipment, and target muscles
+- Detailed exercise descriptions and images
+- Pagination for navigating through exercises
+- Interactive UI with smooth scrolling and responsive design
+- Built with Material-UI for consistent and modern styling
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces
+- **Material-UI**: A popular React UI framework for implementing Google's Material Design
+- **React Hooks**: For managing state and side effects in functional components
+- **Axios**: For making HTTP requests to fetch exercise data from an API
+- **RapidAPI**: Used for accessing the exercise database
+- **react-horizontal-scrolling-menu**: For creating horizontally scrollable components
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +92,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# FitQuest-center
